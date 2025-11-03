@@ -1,5 +1,11 @@
 # 🛍 Ecommerce Customer Spending Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Model-Linear%20Regression-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![Tool](https://img.shields.io/badge/Tool-Streamlit-red)
+![Dataset](https://img.shields.io/badge/Dataset-Ecommerce%20Customers-lightgrey)
+
 This project analyzes customer behavior data to determine whether an eCommerce company should focus on improving its **mobile app** or **website** experience. The goal is to predict yearly customer spending using various engagement metrics.
 
 ---
