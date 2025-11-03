@@ -98,3 +98,4 @@ if st.sidebar.button("Predict"):
     st.subheader("Prediction Result")
     st.success(f"Predicted Yearly Amount Spent: *${prediction[0]:.2f}*")
 
+
